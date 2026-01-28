@@ -44,23 +44,23 @@
 
 - [ ] 1.0 Configuración Inicial y Arquitectura
   - [x] 1.1 Inicializar proyecto Next.js con TypeScript y configuración básica.
-  - [ ] 1.2 Configurar control de versiones Git y enlazar con el repositorio GitHub `pagina-web-veroni-kite`.
-  - [ ] 1.3 Establecer estructura de directorios (`pages`, `components`, `lib`, `public`, `styles`, etc.).
-  - [ ] 1.4 Configurar herramientas de calidad de código (ESLint, Prettier).
-  - [ ] 1.5 Investigar y seleccionar bibliotecas/frameworks de UI (ej. Tailwind CSS) y gestión de estado.
+  - [x] 1.2 Configurar control de versiones Git y enlazar con el repositorio GitHub `pagina-web-veroni-kite`.
+  - [x] 1.3 Establecer estructura de directorios (`pages`, `components`, `lib`, `public`, `styles`, etc.).
+  - [x] 1.4 Configurar herramientas de calidad de código (ESLint, Prettier).
+  - [x] 1.5 Investigar y seleccionar bibliotecas/frameworks de UI (ej. Tailwind CSS) y gestión de estado.
   - [ ] 1.6 Configurar el despliegue automático en Vercel.
   - [ ] 1.7 Investigar y adquirir un dominio web.
   - [ ] 1.8 Configurar un Headless CMS (ej. Strapi, Contentful, Sanity) y definir modelos de contenido iniciales.
 
 - [ ] 2.0 Desarrollo de Funcionalidades para Alumnos
-  - [ ] 2.1 Diseñar y desarrollar páginas estáticas de información general (Inicio, Quiénes Somos).
+  - [x] 2.1 Diseñar y desarrollar páginas estáticas de información general (Inicio, Quiénes Somos).
   - [ ] 2.2 Crear páginas dinámicas para descripciones detalladas de cursos y alquiler de equipos, con contenido desde el CMS.
   - [ ] 2.3 Implementar la visualización de precios de cursos y alquiler de equipos.
   - [ ] 2.4 Desarrollar la interfaz de usuario para el sistema de reservas (selección de cursos/equipos, fechas, horarios).
   - [ ] 2.5 Integrar el calendario de disponibilidad con Calendly o Google Calendar.
   - [ ] 2.6 Implementar la pasarela de pagos con Wonpy para procesar reservas online.
   - [ ] 2.7 Desarrollar la sección de perfiles de instructores (UI con datos del CMS).
-  - [ ] 2.8 Crear y poblar la sección de Preguntas Frecuentes (FAQs) con contenido del CMS.
+  - [x] 2.8 Crear y poblar la sección de Preguntas Frecuentes (FAQs) con contenido del CMS.
   - [ ] 2.9 Desarrollar una guía interactiva y detallada de la región de Salinas del Rey.
   - [ ] 2.10 Implementar una galería de fotos y videos de alta calidad con carga optimizada.
   - [ ] 2.11 Crear una sección para testimonios y reseñas de alumnos (recopilación y visualización).
